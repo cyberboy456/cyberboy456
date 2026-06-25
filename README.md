@@ -46,3 +46,5 @@ Breaking things ethically. Building secure systems. Exploring adversarial ML at 
 <p align="center">
   <i>Happy hacking — the ethical kind. ⚡</i>
 </p>
+
+![snake](https://raw.githubusercontent.com/cyberboy456/cyberboy456/output/github-snake-dark.svg)
